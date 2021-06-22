@@ -1,0 +1,25 @@
+===============================================================================================================
+	Weather Report Using Python | Report of - ERNAKULAM  || Dated :22 Jun 2021 Time: 08:45:56 PM
+--------------------------------------------------------------------------------------------------------------
+           .............................General Informations ...........................
+
+			Town or Place		:ERNAKULAM
+			Country		 	:IN
+			Longitude	 	:76.2833
+			Latitude	 	:9.9833
+			Current Date and Time	:22 Jun 2021 Time: 08:45:56 PM
+           .............................Weather Informations ...........................
+
+			Current Temperature is	 :26.99 deg C
+			Feels Like		 :30.60 deg C
+			Maximum Temperature	 :26.99 deg C
+			Minimum Temperature	 :26.99 deg C
+			Current weather desc	 :OVERCAST CLOUDS
+			Current weather		 :CLOUDS
+			Current Humidity	 :89%
+			Current Preasure	 :30.01 Hg
+			Current wind speed	 :89kmph
+           ............................. End of Report.. ...........................
+
+
+ 																	Code By :Mithun Xavior|ShapeAI Project  

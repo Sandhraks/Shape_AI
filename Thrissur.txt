@@ -1,0 +1,25 @@
+===============================================================================================================
+	Weather Report Using Python | Report of - THRISSUR  || Dated :22 Jun 2021 Time: 08:44:38 PM
+--------------------------------------------------------------------------------------------------------------
+           .............................General Informations ...........................
+
+			Town or Place		:THRISSUR
+			Country		 	:IN
+			Longitude	 	:76.2167
+			Latitude	 	:10.5167
+			Current Date and Time	:22 Jun 2021 Time: 08:44:38 PM
+           .............................Weather Informations ...........................
+
+			Current Temperature is	 :26.99 deg C
+			Feels Like		 :30.92 deg C
+			Maximum Temperature	 :26.99 deg C
+			Minimum Temperature	 :26.99 deg C
+			Current weather desc	 :BROKEN CLOUDS
+			Current weather		 :CLOUDS
+			Current Humidity	 :92%
+			Current Preasure	 :30.01 Hg
+			Current wind speed	 :92kmph
+           ............................. End of Report.. ...........................
+
+
+ 																	Code By :Mithun Xavior|ShapeAI Project  
